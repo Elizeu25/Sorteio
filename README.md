@@ -1,4 +1,4 @@
-# 🎲 Projeto: Sorteador de Números Aleatórios
+ 🎲 Projeto: Sorteador de Números Aleatórios
 
 Este projeto é uma aplicação simples desenvolvida com **HTML, CSS e JavaScript**, que permite ao usuário sortear um número aleatório entre dois valores definidos.
 
@@ -18,18 +18,47 @@ Este projeto é uma aplicação simples desenvolvida com **HTML, CSS e JavaScrip
 
 - HTML5
 - CSS3
-- JavaScript (puro)
 
----
 
-## 🚀 Como Usar
+O ChatGPT disse:
+Readme-sorteador
 
-1. Clone este repositório ou baixe os arquivos.
-2. Abra o arquivo `index.html` em um navegador.
-3. Digite um número mínimo e máximo nos campos.
-4. Clique no botão **Sortear** para gerar um número aleatório.
+🎲 Projeto: Sorteador de Números Aleatórios
+Este projeto é uma aplicação simples desenvolvida com HTML, CSS e JavaScript, que permite ao usuário sortear um número aleatório entre dois valores definidos.
 
----
+✨ Funcionalidades
+Campo para inserir o número mínimo e máximo
 
-## 📁 Estrutura do Projeto
+Validação dos campos preenchidos
+
+Geração de número aleatório dentro do intervalo
+
+Exibição do resultado
+
+Mensagens de erro para entradas inválidas
+
+💻 Tecnologias Utilizadas
+HTML5
+
+CSS3
+
+JavaScript
+
+💡 Aprendizados
+Manipulação de elementos no DOM
+
+Validação de formulários
+
+Uso de classes CSS dinâmicas
+
+Organização de estrutura básica de projeto web
+
+🔗 Acesse o projeto no GitHub
+https://github.com/SEU_USUARIO/sorteador-numeros
+
+👨‍💻 Autor
+Desenvolvido por Elizeu
+📧 Email: elizeurodrigues_@hotmail.com
+
+
 
