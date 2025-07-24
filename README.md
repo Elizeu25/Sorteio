@@ -54,7 +54,7 @@ Uso de classes CSS dinâmicas
 Organização de estrutura básica de projeto web
 
 🔗 Acesse o projeto no GitHub
-https://github.com/SEU_USUARIO/sorteador-numeros
+https://elizeu25.github.io/Sorteio/
 
 👨‍💻 Autor
 Desenvolvido por Elizeu
